@@ -24,7 +24,7 @@ Throughout the course of this project, we gained invaluable knowledge and experi
 
 ## Project Screenshot
 ![Project Screenshot]
-![soumyaranjan](https://github.com/Soumyapatra-0505/CLOUD-COMPUTING-MINOR-PROJECT-Soumya-Ranjan-Patra/assets/145275885/03678e9c-2003-48a5-9d53-b22f9a7d3cd6)
+![soumyaranjan](https://github.com/Soumyapatra-0505/CLOUD-COMPUTING-MINOR-PROJECT-Soumya-Ranjan-Patra/assets/145275885/244932ec-181c-4714-bc7a-41db1ace2557)
 
 ## Project Link
 ![Project Link]
